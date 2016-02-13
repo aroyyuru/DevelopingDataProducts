@@ -3,9 +3,9 @@
 title: "Readme.md"
 author: "aroyyuru"
 date: "February 13, 2016"
-output: html_document
----
 Developing Data Products Course - Course Project: Shiny Application and Reproducible Pitch
+---
+
 
 There are the Coursera's MOOC Developing Data Products Course from Johns Hopkins University. For more information about the several MOOCs comprised in this Specialization.
 
